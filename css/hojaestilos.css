@@ -20,6 +20,11 @@
     width: 50%;
 }
 
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
 .contenedor {
     display: flex;
     flex-wrap: nowrap;
@@ -85,7 +90,22 @@ img{
 }
 
 .textosec5{
-    text-align: center;
     background-color: rgb(70, 166, 252);
-    font-size: 46px;
+    font-size: 45px;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    text-align: left;
+}
+
+.final{
+    flex: 1;
+    text-align: center;
 }
