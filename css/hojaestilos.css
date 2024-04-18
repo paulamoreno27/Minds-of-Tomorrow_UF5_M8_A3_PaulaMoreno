@@ -25,17 +25,18 @@
     flex-wrap: nowrap;
 }
 
-#linea1 {
+.linea1 {
     text-align: left;
     margin-left: 5px; 
     font-size: 45px;
 }
 
-#linea2{
+.linea2{
     text-align: left;
     margin-left: 5px; 
     font-size: 30px;  
 }
+
 
 img{
     width: 90%;
@@ -44,12 +45,12 @@ img{
 
 .section-2{
     background-color: rgb(37, 237, 165);
+    height: 100%;
 }
 
-.feedback {
+.textosec2 {
     text-align: center;
     color: black;
-    background-color: rgb(37, 237, 165);
 }
 
 .fotos1{
