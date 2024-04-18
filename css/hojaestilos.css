@@ -46,6 +46,7 @@ img{
 .section-2{
     background-color: rgb(37, 237, 165);
     height: 100%;
+    padding: 23px;
 }
 
 .textosec2 {
@@ -81,4 +82,10 @@ img{
     display: flex;
     width: 235px;
     height: 234px;
+}
+
+.textosec5{
+    text-align: center;
+    background-color: rgb(70, 166, 252);
+    font-size: 46px;
 }
