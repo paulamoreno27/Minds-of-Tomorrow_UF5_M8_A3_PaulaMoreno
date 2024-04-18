@@ -46,5 +46,18 @@ img{
     text-align: center;
     background-color: rgb(37, 237, 165);
     color: black;
-    height: 30%;
+    height: 50%;
+}
+
+.fotos1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
+.imagenes1{
+    width: 150px;
+    height: 200px;
 }
