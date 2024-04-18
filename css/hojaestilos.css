@@ -42,11 +42,14 @@ img{
     height: 80%;
 }
 
+.section-2{
+    background-color: rgb(37, 237, 165);
+}
+
 .feedback {
     text-align: center;
-    background-color: rgb(37, 237, 165);
     color: black;
-    height: 50%;
+    background-color: rgb(37, 237, 165);
 }
 
 .fotos1{
