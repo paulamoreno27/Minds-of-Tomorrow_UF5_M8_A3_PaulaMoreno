@@ -1,10 +1,10 @@
 .wrapper{
-    width: 50vw;
+    width: 766px;
     margin: auto;
 }
 
 .wrap {
-    height: 30vw;
+    height: 350px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,4 +18,10 @@
     color: black;
     text-align: center;
     width: 50%;
+}
+
+.texto-izq {
+    border-width:4px;
+    margin: 5px; 
+    font-family: "Quicksand", sans-serif;
 }
