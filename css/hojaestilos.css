@@ -20,6 +20,7 @@
     color: black;
     text-align: center;
     width: 50%;
+    font-size: 35px;
 }
 
 body{
@@ -67,6 +68,7 @@ img{
 .textosec2 {
     text-align: center;
     color: black;
+    font-size: 20px;
 }
 
 .fotos1{
@@ -92,15 +94,16 @@ img{
     height: 55%;
 }
 
-.fotos2{
+.section-4 {
     display: flex;
-    justify-content: space-around;
-    width: 250px;
-    height: 237px;
+}
+ 
+.section-4 img {
+    width: 24.5%;   
 }
 
 .section-5{
-    margin-top: -6.5%;
+    margin-top: -5%;
 }
 
 .textosec5{
